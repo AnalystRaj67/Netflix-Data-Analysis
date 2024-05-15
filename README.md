@@ -26,3 +26,7 @@ Methodology
 
 3. Wordcloud
 ->Created a word cloud to visualize the frequency of different genres.
+
+Conclusion:
+This project provides insights into Netflix content based on various factors.
+Understanding the preferences of viewers can help Netflix in content recommendation and production decisions.
